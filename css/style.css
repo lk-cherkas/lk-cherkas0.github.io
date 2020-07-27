@@ -1352,11 +1352,20 @@ footer {
     .realization-block {
         max-width: 980px;
     }
+    .projects {
+        max-width: 980px;
+    }
+    .projects-block {
+        max-width: 100%;
+    }
     .multipurpose-block {
         max-width: 925px;
     }
     .excellent-flex {
         max-width: 900px;
+    }
+    .recentposts {
+        max-width: 100%;
     }
     .recentposts-flex {
         max-width: 925px;
